@@ -17,6 +17,7 @@ class About: Me {
   var frameworks = [
     SwiftUI: "High-Intermediate",
     UIKit: "Intermediate",
+    VueJS: "High-Beginner",
     React: "High-Beginner",
     Tailwind: "High-Beginner",
     Combine: "Beginner"
