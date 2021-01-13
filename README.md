@@ -9,7 +9,7 @@ class About: Me {
   let name = "Boom"
   var languages = [
     Swift: "High-Intermediate",
-    JavaScript: "Intermediate",
+    JavaScript: "High-Intermediate",
     TypeScript: "Intermediate",
     Java: "Intermediate",
     Python: "Beginner"
@@ -17,10 +17,15 @@ class About: Me {
   var frameworks = [
     SwiftUI: "High-Intermediate",
     UIKit: "Intermediate",
-    VueJS: "High-Beginner",
-    React: "High-Beginner",
-    Tailwind: "High-Beginner",
+    VueJS: "Intermediate",
+    React: "Intermediate",
+    Tailwind: "Intermediate",
     Combine: "Beginner"
+  ]
+  var hobbies = [
+    "Experiment with new techs",
+    "Watch animes",
+    "Read books"
   ]
 }
 ```
