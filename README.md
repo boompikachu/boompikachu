@@ -13,7 +13,7 @@ class About: Me {
     TypeScript: "Intermediate",
     Java: "Intermediate",
     Python: "Beginner"
-    ]
+  ]
   var frameworks = [
     SwiftUI: "High-Intermediate",
     UIKit: "Intermediate",
