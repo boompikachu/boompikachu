@@ -1,8 +1,8 @@
 ### Hi there! I'm Patthanat Thanintantrakun (or Boom) 👋  
 
-*Year 4 in **Information and Commmunication Engineer** at [Chulalongkorn University](https://www.chula.ac.th/en/)* 🏫  
+*Graduated from **Information and Commmunication Engineer** at [Chulalongkorn University](https://www.chula.ac.th/en/)* 🏫  
 *Developer and member at [Thinc.](https://github.com/thinc-org)* 👨‍💻  
-*Part-time at [Monkey Everyday](https://github.com/monkey-monkey)* 🐵
+*Full-time at [Monkey Everyday](https://github.com/monkey-monkey)* 🐵
 
 
 ```swift
@@ -14,12 +14,11 @@ class About: Me {
     Swift: "Intermediate",
     Java: "Intermediate",
     Python: "Beginner",
-    Docker: "Beginner"
   ]
   var frameworks = [
     TailwindCSS: "Proficient",
-    NextJS: "Intermediate",
-    React: "Intermediate",
+    NextJS: "Proficient",
+    React: "Proficient",
     SwiftUI: "Intermediate",
     UIKit: "Intermediate",
     VueJS: "Intermediate",
